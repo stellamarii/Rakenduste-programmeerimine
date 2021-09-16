@@ -23,6 +23,6 @@ public class Category {
     private CategoryType category;
 }
 
-enum CategoryType{
+enum CategoryType {
     PREMIUM, DELUXE, BASIC
 }
